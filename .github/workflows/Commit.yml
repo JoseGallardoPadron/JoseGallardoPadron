@@ -1,5 +1,6 @@
 name: JoseGp Commit
-   on:
+
+on:
   push:
     branches:
       - main
