@@ -1,4 +1,4 @@
-name: Personal Commit
+name: JoseGP Commit
    on:
   push:
     branches:
