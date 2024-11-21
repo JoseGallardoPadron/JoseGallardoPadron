@@ -54,5 +54,5 @@ git config --global commit.gpgSign false
 
 git commit --no-gpg-sign -m "Kubernetes"
 
-git push origin develop
+git push origin main
 
