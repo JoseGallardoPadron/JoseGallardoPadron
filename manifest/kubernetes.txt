@@ -1,3 +1,6 @@
+fuentes 
+https://github.com/juancondorijara/CognitiveServices_ContentModerator/blob/develop-spring-boot/manifest/akubernetes.yml
+
 # consultar versión de minikube
 minikube version
 
